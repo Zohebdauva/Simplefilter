@@ -126,6 +126,9 @@
             </div>
         </div>
     </div>
+    <footer>
+        <h1>Developed By Zoheb Dauva (zohebdauva@gmail.com) </h1>
+    </footer>
     <script src="js/jquery.js"></script>
     <script src="js/ion.rangeSlider.js"></script>
     <script src="js/bootstrap.min.js"></script>
